@@ -1,7 +1,7 @@
 <h2>Validation</h2>
 <ol>
-  <li>Flare Covalent Docking</li>
-  <li>LigandScout</li>
+  <li></li>
+  <li></li>
   <li></li>
   <li></li>
 </ol>
