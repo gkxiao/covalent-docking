@@ -5,7 +5,7 @@
   <li></li>
   <li></li>
 </ol>
-<h2>Tools</h2>
+<h2>Tools and approaches</h2>
 <ol>
   <li>Flare Covalent Docking</li>
   <li>LigandScout</li>
